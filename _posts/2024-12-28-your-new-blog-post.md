@@ -1,3 +1,7 @@
-## Why Quantum?
+## What is 'Deep Tech'?
 
-I've decided my first few posts are going to be on quantum computing. Over the past couple of months quantum has been on a roll, and even though I'm an optimist on the promise and timelines of quantum, there has been some insane price action.
+Among deep tech investors, asking 'what is deep tech' has turned into a self-depricating joke. We self-profess ourselves as investors in this technology, but it has so many different definitions, with various origins.
+
+To start off the blog, I thought it useful to contextualise what I mean when I refer to deep tech here on out.
+
+For me, 'deep tech' is technology built upon the foundations of deep scientific research, excluding the life sciences, which has carved biotech out as its own.
