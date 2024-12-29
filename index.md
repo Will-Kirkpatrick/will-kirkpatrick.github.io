@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Entering 2025, I have decided to start a blog, sharing snapshots of what I'm looking at in deep tech. Sharing my ideas has always put me in two minds -- in the end what convinced me is the opportunity for people to criticise my thoughts, so please, have at it.
