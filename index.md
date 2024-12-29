@@ -1,4 +1,4 @@
-Hi, I’m [Will Kirkpatrick](https://www.linkedin.com/in/w-kirkpatrick/) — deep tech investor at Braavos, chess obsessive, and real tennis amateur. As we roll into 2025 I’ve finally decided to start a blog.
+Hi, I’m [Will Kirkpatrick](https://www.linkedin.com/in/w-kirkpatrick/) — deep tech investor at [Braavos](https://www.linkedin.com/company/braavos-investment-advisers/), chess obsessive, and real tennis amateur. As we roll into 2025 I’ve finally decided to start a blog.
 
 Why? Because I'm interested to hear what people think. Plus, there’s nothing like public critique to keep you humble, so please, have at it.
 
